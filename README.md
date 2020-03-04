@@ -16,7 +16,7 @@
 Press the left and right arrow keys to move forward or click left and right of the screen to move forward.
 
 #### Made By
-Leonardus Asaba(except for the musics and 3d models)
+Leonardus Asaba(except musics, sounds, and 3d models)
 
 #### Tools Used
 <ul>
@@ -24,7 +24,7 @@ Leonardus Asaba(except for the musics and 3d models)
   <li>Visual Studio</li>
 </ul>
 
-#### Font and 3D Models
+#### Font, Musics, Sounds, and 3D Models
 <ul>
   <li>ZOMBIE(Font)</li>
   <li><a href="https://assetstore.unity.com/packages/audio/sound-fx/voices/attack-jump-hit-damage-human-sounds-32785" target="_blank" rel="noopener noreferrer">Attack Jump & Hit Damage Human Sounds</a></li>
